@@ -1,0 +1,2 @@
+2022/09/12 11:23:19 [error] 5140#3768: *1 CreateFile() "C:\Users\cam\Desktop\nginx-1.23.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/09/12 11:24:15 [error] 5140#3768: *4 CreateFile() "C:\Users\cam\Desktop\nginx-1.23.1/html/50x" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /50x HTTP/1.1", host: "localhost"

@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Sep/2022:11:23:19 -0400] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33"
+127.0.0.1 - - [12/Sep/2022:11:23:19 -0400] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33"
+127.0.0.1 - - [12/Sep/2022:11:24:15 -0400] "GET /50x HTTP/1.1" 404 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33"
+192.168.126.121 - - [12/Sep/2022:12:01:09 -0400] "GET /local_cert HTTP/1.1" 200 2214 "-" "curl/7.55.1"
+192.168.126.121 - - [12/Sep/2022:12:02:03 -0400] "GET /local_cert HTTP/1.1" 200 2214 "-" "curl/7.55.1"
+192.168.126.121 - - [12/Sep/2022:12:22:35 -0400] "GET /local_cert HTTP/1.1" 200 2214 "-" "curl/7.55.1"
+192.168.126.121 - - [12/Sep/2022:12:22:46 -0400] "GET / HTTP/1.1" 200 615 "-" "curl/7.55.1"
